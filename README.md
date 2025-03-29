@@ -1,1 +1,3 @@
 # PokerBot
+
+Pokerbot challenge
